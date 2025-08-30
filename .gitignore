@@ -1,0 +1,54 @@
+# SOLIDWORKS временные файлы
+~$*.SLD*
+~$*.sld*
+
+# SOLIDWORKS автосохранение
+*.SLDasm.bak
+*.SLDprt.bak
+*.SLDdrw.bak
+
+# SOLIDWORKS кэш файлы
+*.sldbak
+*.sldprt.bak
+*.sldasm.bak
+*.slddrw.bak
+
+# Временные файлы Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Папки для системных файлов
+$RECYCLE.BIN/
+.Trashes
+
+# Логи
+*.log
+
+# Архивы
+*.zip
+*.rar
+*.7z
+
+# Файлы симуляции SOLIDWORKS
+*.CWR
+*.SWX
+
+# PhotoView 360 файлы
+*.p360
+
+# Файлы анализа
+*.ans
+*.db1
+*.dbb
+
+# SOLIDWORKS PDM файлы
+*.SLDVAULT*
+
+# Файлы блокировки SOLIDWORKS
+~$*
+
+# eDrawings файлы
+*.eprt
+*.easm
+*.edrw
